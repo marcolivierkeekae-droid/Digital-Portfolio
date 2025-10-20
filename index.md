@@ -1,6 +1,6 @@
-layout: default
-title: "Leatile's Digital Portfolio & Blog"
----
+[Home]({{ site.baseurl }}/) | [About]({{ site.baseurl }}/about) | [Blog]({{ site.baseurl }}/blog)
+
+title: "Leatile's Digital Portfolio & Blog" 
 
 # 👋 Welcome to My Digital Portfolio
 
@@ -18,6 +18,7 @@ On this site, you'll find examples of my work and reflections on what I learned 
 ## 💼 Featured Projects
 - **Project 1:** [BnB Reservation System](#) — A booking management system.  
 - **Project 2:** [Portfolio Website](#) — Designed with Jekyll & GitHub Pages.  
+
 
 
 
