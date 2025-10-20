@@ -1,0 +1,17 @@
+title: "Leatile's Portfolio & Blog"
+email: leatilekeekae@gmail.com
+description: "My portfolio and blog site"
+baseurl: ""
+url: "https://marcolivierkeekae-droid.github.io"
+
+remote_theme: jekyll/minimal
+plugins:
+  - jekyll-feed
+
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog"
+  - title: "About"
+    url: "/about"
