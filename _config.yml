@@ -4,9 +4,10 @@ description: "My portfolio and blog site"
 baseurl: "/Digital-Portfolio"
 url: "https://marcolivierkeekae-droid.github.io"
 
-remote_theme: jekyll/minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 navbar:
   - title: "Home"
