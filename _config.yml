@@ -1,7 +1,7 @@
 title: "Leatile's Portfolio & Blog"
 email: leatilekeekae@gmail.com
 description: "My portfolio and blog site"
-baseurl: ""
+baseurl: "/Digital-Portfolio"
 url: "https://marcolivierkeekae-droid.github.io"
 
 remote_theme: jekyll/minimal
