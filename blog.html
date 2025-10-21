@@ -1,14 +1,20 @@
-yaml
 ---
 layout: default
 title: Blog
 ---
 
 <h1>My Blog</h1>
-<p>Welcome to my blog! Here I post reflections on projects and learning experiences.</p>
+<p>Welcome to my blog! Here I share reflections, learning experiences, and project updates.</p>
 
+<!-- Blog Posts List -->
 <ul>
   {% for post in site.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%B %-d, %Y" }}</li>
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%B %-d, %Y" }}
+  </li>
   {% endfor %}
 </ul>
+
+<!-- Example Static Post (if no _posts yet) -->
+<h2>Example Post: My First Blog</h2>
+<p>Starting university was a major shift in my life. I had to learn time management, develop study habits, and embrace a growth mindset.</p>
