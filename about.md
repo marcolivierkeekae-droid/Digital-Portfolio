@@ -3,10 +3,18 @@ layout: default
 title: "About Me"
 ---
 
-<h1>About Me</h1>
-<p>Hi, I'm Leatile! I am currently pursuing Bsc Computer System Engineering at the Botswana Accountancy College. I am passionate about music, app development, photography, and have experience with tools like Excel, Visual Paradigm, and HTML.</p>
-<p>This portfolio showcases my academic journey, projects, skills, and reflections on group work and personal learning experiences.</p>
-<p>Feel free to explore my <a href="/resume.html">Resume</a>, <a href="/blog.html">Blog</a>, and other pages to learn more about my work.</p>
+# About Me
+
+Hi, I'm Leatile!  
+
+I’m currently pursuing **BSc Computer Systems Engineering** at **Botswana Accountancy College**.  
+I’m passionate about **music, app development, and photography**, and I enjoy working with **Github, Visual Paradigm, and HTML**.
+
+This portfolio showcases my academic journey, projects, and reflections.
+
+[Back to Home](index.md)
+
+
 
 
 
