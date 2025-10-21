@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "About Me"
 ---
 
@@ -13,6 +13,7 @@ I’m passionate about **music, app development, and photography**, and I enjoy 
 This portfolio showcases my academic journey, projects, and reflections.  
 
 [← Back to Home]({{ site.baseurl }}/index.html)
+
 
 
 
