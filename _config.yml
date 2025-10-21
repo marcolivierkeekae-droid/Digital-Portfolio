@@ -1,27 +1,6 @@
-title: "Leatile's Portfolio & Blog"
-email: leatilekeekae@gmail.com
-description: "My portfolio and blog site"
-baseurl: "/Digital-Portfolio"
-url: "https://marcolivierkeekae-droid.github.io"
-
-theme: jekyll-theme-primer
-
-navbar:
-  title: "Leatile's Portfolio"
-  links:
-    - title: Home
-      url: "/"
-    - title: About
-      url: "/about.md"
-    - title: Resume
-      url: "/resume.html"
-    - title: Blog
-      url: "/blog.html"
-    - title: Group Work
-      url: "/groupwork.html"
-    - title: Skills
-      url: "/skills.html"
-    - title: Application
-      url: "/application.html"
-    - title: Email
-      url: "/email.html"
+title: "Leatile's Portfolio"
+description: "Personal blog and portfolio site"
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-feed
+markdown: kramdown
