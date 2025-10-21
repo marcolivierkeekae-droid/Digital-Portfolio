@@ -4,24 +4,26 @@ description: "My portfolio and blog site"
 baseurl: "/Digital-Portfolio"
 url: "https://marcolivierkeekae-droid.github.io"
 
- remote_theme: pages-themes/minimal@v0.4.0
+remote_theme: pages-themes/minimal@v0.4.0
 plugins:
   - jekyll-feed
 
 navbar:
-  - title: "Home"
-    url: "/"
-  - title: "Blog"
-    url: "/blog.html"
-  - title: "About"
-    url: "/about.html"
-  - title: "Resume"
-    url: "/resume.html"
-  - title: "Skills"
-    url: "/skills.html"
-  - title: "Group Work"
-    url: "/groupwork.html"
-  - title: "Application"
-    url: "/application.html"
-  - title: "Email"
-    url: "/email.html"
+  title: "Leatile's Portfolio"
+  links:
+    - title: Home
+      url: "/"
+    - title: About
+      url: "/about.html"
+    - title: Resume
+      url: "/resume.html"
+    - title: Blog
+      url: "/blog.html"
+    - title: Group Work
+      url: "/groupwork.html"
+    - title: Skills
+      url: "/skills.html"
+    - title: Application
+      url: "/application.html"
+    - title: Email
+      url: "/email.html"
