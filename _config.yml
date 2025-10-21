@@ -12,7 +12,7 @@ navbar:
     - title: Home
       url: "/"
     - title: About
-      url: "/about.html"
+      url: "/about.md"
     - title: Resume
       url: "/resume.html"
     - title: Blog
