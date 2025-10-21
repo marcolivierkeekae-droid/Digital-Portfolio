@@ -14,8 +14,9 @@ title: Home
 [Resume]({{ site.baseurl }}/resume.html)
 
 
-title: "Leatile's Digital Portfolio & Blog" 
+#  Leatile's Digital Portfolio & Blog
 
+---
 # 👋 Welcome to My Digital Portfolio
 
 Hi, I'm **Leatile Keekae** — a tech enthusiast and aspiring developer!  
@@ -32,6 +33,7 @@ On this site, you'll find examples of my work and reflections on what I learned 
 ## 💼 Featured Projects
 - **Project 1:** [BnB Reservation System](#) — A booking management system.  
 - **Project 2:** [Portfolio Website](#) — Designed with Jekyll & GitHub Pages.  
+
 
 
 
