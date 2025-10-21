@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Home
@@ -33,6 +32,7 @@ On this site, you'll find examples of my work and reflections on what I learned 
 ## 💼 Featured Projects
 - **Project 1:** [BnB Reservation System](#) — A booking management system.  
 - **Project 2:** [Portfolio Website](#) — Designed with Jekyll & GitHub Pages.  
+
 
 
 
