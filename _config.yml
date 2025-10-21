@@ -14,7 +14,7 @@ navbar:
   - title: "Blog"
     url: "/blog.html"
   - title: "About"
-    url: "/about.md"
+    url: "/about.html"
   - title: "Resume"
     url: "/resume.html"
   - title: "Skills"
