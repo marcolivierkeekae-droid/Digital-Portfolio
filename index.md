@@ -4,7 +4,15 @@ layout: default
 title: Home
 ---
 
-[Home]({{ site.baseurl }}/) | [About]({{ site.baseurl }}/about.md) | [Blog]({{ site.baseurl }}/blog.html)
+[Home]({{ site.baseurl }}/index.html) |
+[About]({{ site.baseurl }}/about.html) |
+[Blog]({{ site.baseurl }}/blog.html) |
+[Skills]({{ site.baseurl }}/skills.html) |
+[Group Work]({{ site.baseurl }}/groupwork.html) |
+[Application]({{ site.baseurl }}/application.html) |
+[Email]({{ site.baseurl }}/email.html) |
+[Resume]({{ site.baseurl }}/resume.html)
+
 
 title: "Leatile's Digital Portfolio & Blog" 
 
@@ -24,6 +32,7 @@ On this site, you'll find examples of my work and reflections on what I learned 
 ## 💼 Featured Projects
 - **Project 1:** [BnB Reservation System](#) — A booking management system.  
 - **Project 2:** [Portfolio Website](#) — Designed with Jekyll & GitHub Pages.  
+
 
 
 
