@@ -18,8 +18,8 @@ title: Home
 ---
 # 👋 Welcome to My Digital Portfolio
 
-Hi, I'm **Leatile Keekae** — a tech enthusiast and aspiring developer!  
-This is my **digital portfolio and personal blog**, where I share my projects, skills, and learning journey.
+Hi, I'm **Leatile Marc-Olivier Keekae** — a tech connoisseurs and aspiring developer!  
+This is my **digital portfolio and personal blog**, where I share my projects, skills, and learning journey from primary level up until tertiary level.
 
 ---
 
@@ -32,6 +32,7 @@ On this site, you'll find examples of my work and reflections on what I learned 
 ## 💼 Featured Projects
 - **Project 1:** [BnB Reservation System](#) — A booking management system.  
 - **Project 2:** [Portfolio Website](#) — Designed with Jekyll & GitHub Pages.  
+
 
 
 
