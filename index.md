@@ -1,10 +1,5 @@
 {% include background.html %}
 
----
-layout: default
-title: Home
----
-
 [Home]({{ site.baseurl }}/index.html) |
 [About]({{ site.baseurl }}/about.html) |
 [Blog]({{ site.baseurl }}/blog.html) |
@@ -47,6 +42,7 @@ particlesJS("particles-js", {
   }
 });
 </script>
+
 
 
 
