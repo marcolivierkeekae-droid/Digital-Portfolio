@@ -3,8 +3,7 @@
 # About Me
 ---
 Programme: **BSc Computer Systems Engineering**
-
-StudentID:**Cse25-208**
+StudentID: **Cse25-208**
 ---
 
 Hi, I'm **Leatile Marc-Olivier Keekae** 👋  
@@ -28,6 +27,7 @@ particlesJS("particles-js", {
   }
 });
 </script>
+
 
 
 
