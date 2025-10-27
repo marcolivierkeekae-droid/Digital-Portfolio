@@ -1,5 +1,4 @@
 {% include background.html %}
-
 ---
 layout: page
 title: "About Me"
@@ -30,6 +29,7 @@ particlesJS("particles-js", {
   }
 });
 </script>
+
 
 
 
