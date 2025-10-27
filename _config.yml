@@ -5,4 +5,4 @@ plugins:
   - jekyll-feed
 markdown: kramdown
 sass:
-  style: assets/css/style.css
+  style: assets/css/styles.css
