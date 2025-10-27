@@ -1,8 +1,4 @@
 {% include background.html %}
----
-layout: default
-title: Blog
----
 
 <h1>My Blog</h1>
 <p>Welcome to my blog! Here I share reflections, learning experiences, and project updates.</p>
