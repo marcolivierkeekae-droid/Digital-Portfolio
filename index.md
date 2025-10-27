@@ -31,7 +31,22 @@ On this site, you'll find examples of my work and reflections on what I learned 
 
 ## 💼 Featured Projects
 - **Project 1:** [BnB Reservation System](#) — A booking management system.  
-- **Project 2:** [Portfolio Website](#) — Designed with Jekyll & GitHub Pages.  
+- **Project 2:** [Portfolio Website](#) — Designed with Jekyll & GitHub Pages.
+
+  <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
+<script>
+particlesJS("particles-js", {
+  "particles": {
+    "number": {"value": 80},
+    "size": {"value": 3},
+    "move": {"speed": 1},
+    "line_linked": {"enable": true, "color": "#00ffff"},
+    "color": {"value": "#00ffff"}
+  }
+});
+</script>
+
+
 
 
 
