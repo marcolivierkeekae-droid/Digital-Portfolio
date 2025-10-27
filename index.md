@@ -1,3 +1,5 @@
+{% include background.html %}
+
 ---
 layout: default
 title: Home
@@ -45,6 +47,7 @@ particlesJS("particles-js", {
   }
 });
 </script>
+
 
 
 
