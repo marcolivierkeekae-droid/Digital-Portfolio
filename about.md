@@ -1,13 +1,10 @@
 {% include background.html %}
----
-layout: page
-title: "About Me"
-Programme: BSc Computer Systems Engineering
-StudentID: Cse25-208
----
 
 # About Me
-
+---
+Programme: **BSc Computer Systems Engineering**
+StudentID:**Cse25-208**
+---
 Hi, I'm **Leatile Marc-Olivier Keekae** 👋  
 
 I am currently pursuing **BSc Computer Systems Engineering** at **Botswana Accountancy College**.  
@@ -29,6 +26,7 @@ particlesJS("particles-js", {
   }
 });
 </script>
+
 
 
 
