@@ -1,5 +1,4 @@
 {% include background.html %}
-
 ---
 layout: default
 title: Blog
