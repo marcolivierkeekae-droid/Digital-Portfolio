@@ -2,7 +2,7 @@
 
 # About Me
 ---
-Programme: **BSc Computer Systems Engineering**
+Programme: **BSc Computer Systems Engineering
 StudentID: **Cse25-208**
 ---
 
@@ -27,6 +27,7 @@ particlesJS("particles-js", {
   }
 });
 </script>
+
 
 
 
