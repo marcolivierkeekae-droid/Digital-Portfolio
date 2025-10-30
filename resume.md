@@ -2,7 +2,6 @@
 
 <h1>My Resume</h1>
 <img src="assets/images/Portfolio Resume.png" alt="Resume">
-<p>Download my CV <a href="assets/files/CV.pdf">here</a>.</p>
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
