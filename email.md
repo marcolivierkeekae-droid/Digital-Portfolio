@@ -1,6 +1,6 @@
 {% include background.html %}
 
-<h1>Email Template</h1>
+<h1>Email</h1>
 <p>Example of a formal Email.</p>
 
 [← Back to Home]({{ site.baseurl }}/index.html)
