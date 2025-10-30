@@ -31,12 +31,6 @@ On this site, you'll find examples of my work and reflections on what I learned 
 - **Project 2:** [Portfolio Website](#) — Designed with Jekyll & GitHub Pages.
 
 
-   body { 
-  color: cobalt blue;
-  background:  linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #0f2027);
- 
-}
-
   <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
 particlesJS("particles-js", {
@@ -49,6 +43,7 @@ particlesJS("particles-js", {
   }
 });
 </script>
+
 
 
 
