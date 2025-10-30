@@ -5,6 +5,8 @@
 <p>Here I showcase my technical skills and projects.</p>
 <h2></h2>
 
+[← Back to Home]({{ site.baseurl }}/index.html)
+
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
 particlesJS("particles-js", {
