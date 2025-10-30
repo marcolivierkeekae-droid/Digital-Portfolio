@@ -15,6 +15,8 @@
 <!-- Example Static Post (if no _posts yet) -->
 <h2>Example Post: My First Blog</h2>
 <p>Starting university was a major shift in my life. I had to learn time management, develop study habits, and embrace a growth mindset.</p>
+[← Back to Home]({{ site.baseurl }}/index.html)
+
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
 particlesJS("particles-js", {
