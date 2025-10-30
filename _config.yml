@@ -9,4 +9,4 @@ defaults:
     scope:
       path: ""
     values:
-      css: "/assets/css/style.css"
+      css: "/assets/style.css"
