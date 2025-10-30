@@ -4,7 +4,7 @@
 <h1>My Resume</h1>
 <img src="assets/resume.png" alt="Resume">
 
-[← Back to Home]({{ site.baseurl }}/index.md)
+[← Back to Home]({{ site.baseurl }}/index.html)
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
