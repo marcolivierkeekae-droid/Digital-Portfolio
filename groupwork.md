@@ -1,9 +1,11 @@
 {% include background.html %}
 
 <h1>Group Work Reflections</h1> 
-<img src="assets/images/groupwork1.png" alt="Group Project"> 
+<img src="assets/groupwork1.png" alt="Group Project"> 
 <p>Details about my group projects and learnings.</p>
 <h2>Introduction</h2>
+
+[← Back to Home]({{ site.baseurl }}/index.html)
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
