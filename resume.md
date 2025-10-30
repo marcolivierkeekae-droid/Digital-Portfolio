@@ -1,5 +1,6 @@
 {% include background.html %}
 
+<section id="resume">
 <h1>My Resume</h1>
 <img src="assets/resume.png" alt="Resume">
 
