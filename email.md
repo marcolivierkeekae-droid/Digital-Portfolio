@@ -2,6 +2,7 @@
 
 <h1>Email Template</h1>
 <p>Example of a formal Email.</p>
+[← Back to Home]({{ site.baseurl }}/index.html)
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
