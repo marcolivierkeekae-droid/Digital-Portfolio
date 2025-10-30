@@ -7,6 +7,6 @@ markdown: kramdown
 defaults:
   -
     scope:
-      path: "/assets/style.css"
+      path: ""
     values:
       css: "/assets/style.css"
