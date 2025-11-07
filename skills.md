@@ -3,11 +3,27 @@
 <h1>Skills & Projects</h1>
 
 <p>Here I showcase my technical skills and projects.</p>
-<h2>HTML</h2>
-<img src="assets/html.png" alt="HTML5" width="80">
 
-<h3>CSS</h3>
+<section id="skills">
+  <h1>Technical Skills</h1>
+  <div class="skills-grid">
+    <div class="skill">
+<img src="assets/html.png" alt="HTML5" width="80">
+      <p>HTML5</p>
+    </div>
+    
+<div class="skill">
 <img src="assets/css.png" alt="CSS3" width="80">
+  <p>CSS3</p>
+</div>
+
+<section id="projects">
+<h2>Projects</h2>
+<div class="projects-grid">
+<div class="projects">
+<h3>Portfolio and blog website</h3>
+<p>a personal website created to showcase my skills and work built with HTML,CSS and JavaScript.</p>
+<a href="https://github.com/marcolivierkeekae-droid.github.io/portfolio" target="_blank">View on GITHUB</a>
 
 
 [← Back to Home]({{ site.baseurl }}/index.html)
