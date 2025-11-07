@@ -46,7 +46,6 @@
   
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 
-[← Back to Home]({{ site.baseurl }}/index.html)
 
 <script>
 particlesJS("particles-js", {
