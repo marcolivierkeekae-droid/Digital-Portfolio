@@ -4,6 +4,8 @@
 <h1>My Resume</h1>
 <img src="assets/resume.png" alt="Resume">
 
+<a href="{{ site.baseurl }}/index.html">← Back to Home</a>
+
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
 particlesJS("particles-js", {
