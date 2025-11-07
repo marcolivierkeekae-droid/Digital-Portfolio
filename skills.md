@@ -26,8 +26,7 @@
 <a href="https://marcolivierkeekae-droid.github.io/Digital-Portfolio/" target="_blank">View on GITHUB</a>
 </div>
 
-
-[← Back to Home]({{ site.baseurl }}/index.html)
+<a href="{{ site.baseurl }}/index.html">← Back to Home</a>
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
