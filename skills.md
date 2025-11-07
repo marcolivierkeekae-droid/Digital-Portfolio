@@ -21,8 +21,8 @@
 <h2>Projects</h2>
 <div class="projects-grid">
 <div class="projects">
-<h3>Portfolio and blog website</h3>
-<p>a personal website created to showcase my skills and work built with HTML,CSS and JavaScript.</p>
+<h3>Portfolio and Blog Website</h3>
+<p>A personal website created to showcase my skills and work built with HTML,CSS and JavaScript.</p>
 <a href="https://marcolivierkeekae-droid.github.io/Digital-Portfolio/" target="_blank">View on GITHUB</a>
 
 
