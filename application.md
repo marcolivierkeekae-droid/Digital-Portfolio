@@ -43,7 +43,7 @@
 <p>Yours faithfully<br><br>
 <strong>Leatile Marc-Olivier Keekae</strong></p>
 <p>+26771397908</p>
-<p/>l.keekae</p>
+l.keekae
 <section>
   
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
