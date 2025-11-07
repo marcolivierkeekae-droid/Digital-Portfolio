@@ -4,8 +4,8 @@
 <img src="assets/images/skill1.png" alt="Skill Example">
 <p>Here I showcase my technical skills and projects.</p>
 <h2>HTML</h2>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<i class="devicon-html5-plain-wordmark"></i>
 [← Back to Home]({{ site.baseurl }}/index.html)
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
