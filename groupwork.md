@@ -5,7 +5,7 @@
 <p>Details about my group projects and learnings.</p>
 <h2>Introduction</h2>
 
-[← Back to Home]({{ site.baseurl }}/index.html)
+<a href="{{ site.baseurl }}/index.html">← Back to Home</a>
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
