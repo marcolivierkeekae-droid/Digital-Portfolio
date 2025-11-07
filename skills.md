@@ -7,6 +7,7 @@
 <img src="assets/html.png" alt="HTML5" width="80">
 
 <h3>CSS</h3>
+<img src="assets/css.png" alt="CSS3" width="80">
 
 
 [← Back to Home]({{ site.baseurl }}/index.html)
