@@ -8,7 +8,7 @@
   
   <p><strong>Leatile Marc-Olivier Keekae</strong><br>
   Gaborone<br>
-  <a href= "mailto:lato@gmail.com" style="color:#0073e6";text-decoration:none;">lato@gmail.com</a>
+  lato@gmail.com<br>
   +26771397908<br>
   05 November 2025</p>
 
@@ -25,7 +25,7 @@
   <p>Dear Sir/Madam,</p>
 
   <p>
-    This letter hereby serves as a formal application for an industrial attachment opportunity at<strong>Caltech</strong> as part of my studies in<strong>Computer Systems Engineering</strong>. I am eager to acquire practical experience,which i believe will be very useful to me towards my future endeavors, and also help deepen my understanding of how technology is applied in real-world business environments.
+    This letter hereby serves as a formal application for an industrial attachment opportunity at <strong>Caltech</strong> as part of my studies in <strong>Computer Systems Engineering</strong>. I am eager to acquire practical experience,which i believe will be very useful to me towards my future endeavors, and also help deepen my understanding of how technology is applied in real-world business environments.
   </p>
 
 <p>
@@ -45,6 +45,7 @@
 <section>
   
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
+
 [← Back to Home]({{ site.baseurl }}/index.html)
 
 <script>
