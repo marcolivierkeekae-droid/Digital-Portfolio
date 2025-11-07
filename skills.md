@@ -24,7 +24,7 @@
 <h3>Portfolio and Blog Website</h3>
 <p>A personal website created to showcase my skills and work built with HTML,CSS and JavaScript.</p>
 <a href="https://marcolivierkeekae-droid.github.io/Digital-Portfolio/" target="_blank">View on GITHUB</a>
-
+</div>
 
 
 [← Back to Home]({{ site.baseurl }}/index.html)
