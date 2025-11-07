@@ -4,6 +4,7 @@
 
 <p>Here I showcase my technical skills and projects.</p>
 <h2>HTML</h2>
+<img src="assets/html.png" alt="HTML5" width="80">
 
 <h3>CSS</h3>
 
