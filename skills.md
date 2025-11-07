@@ -5,7 +5,7 @@
 <p>Here I showcase my technical skills and projects.</p>
 <h2>HTML</h2>
 
-<i class="devicon-html5-plain-wordmark"></i>
+
 [← Back to Home]({{ site.baseurl }}/index.html)
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
