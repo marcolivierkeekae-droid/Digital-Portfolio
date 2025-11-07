@@ -23,7 +23,7 @@
 <div class="projects">
 <h3>Portfolio and blog website</h3>
 <p>a personal website created to showcase my skills and work built with HTML,CSS and JavaScript.</p>
-<a href="https://github.com/marcolivierkeekae-droid.github.io/portfolio" target="_blank">View on GITHUB</a>
+<a href="https://marcolivierkeekae-droid.github.io/Digital-Portfolio/" target="_blank">View on GITHUB</a>
 
 
 [← Back to Home]({{ site.baseurl }}/index.html)
