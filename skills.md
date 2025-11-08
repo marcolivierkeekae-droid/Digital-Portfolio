@@ -26,15 +26,14 @@
 <a href="https://marcolivierkeekae-droid.github.io/Digital-Portfolio/" target="_blank">View on GITHUB</a>
 </div>
 
-<div class="skill">
-<p>Canva</p>
+
   <section id="projects">
-    <h4>Projects</h4>
+    <h4>CANVA</h4>
     <div class="project-grid">
       <div class="projects">
       <p>A personal project created using CANVA exploring my artistic and poetic side.</p>
       </div>
-        
+            
 </div>
 <div style="position: relative; width: 100%; height: 0; padding-top: 80.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
