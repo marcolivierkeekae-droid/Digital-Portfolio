@@ -16,7 +16,7 @@
 
   <p><strong>To:</strong><br>
   The Human Resource Manager<br>
-  Caltech<br>
+  Subnet Solutions<br>
   P O BOX 116<br>
   Gaborone</p>
 
@@ -25,7 +25,7 @@
   <p>Dear Sir/Madam,</p>
 
   <p>
-    This letter hereby serves as a formal application for an industrial attachment opportunity at <strong>Caltech</strong> as part of my studies in <strong>Computer Systems Engineering</strong>. I am eager to acquire practical experience,which i believe will be very useful to me towards my future endeavors, and also help deepen my understanding of how technology is applied in real-world business environments.
+    This letter hereby serves as a formal application for an industrial attachment opportunity at <strong>Subnet Solutions</strong> as part of my studies in <strong>Computer Systems Engineering</strong>. I am eager to acquire practical experience,which i believe will be very useful to me towards my future endeavors, and also help deepen my understanding of how technology is applied in real-world business environments.
   </p>
 
 <p>
