@@ -9,7 +9,7 @@
     src="https://www.canva.com/design/DAG4F5iWLvI/drr3PZ3XmZgP9tWYr1u-kg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG4F5iWLvI&#x2F;drr3PZ3XmZgP9tWYr1u-kg&#x2F;view?utm_content=DAG4F5iWLvI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">+26771397908</a> by Marc-olivier “marco”
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG4F5iWLvI&#x2F;drr3PZ3XmZgP9tWYr1u-kg&#x2F;view?utm_content=DAG4F5iWLvI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Formal Email for Industrial Attachment </a> by Marc-olivier 
 
 <a href="{{ site.baseurl }}/index.html">← Back to Home</a>
 
