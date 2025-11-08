@@ -26,7 +26,7 @@
 <a href="https://marcolivierkeekae-droid.github.io/Digital-Portfolio/" target="_blank">View on GITHUB</a>
 </div>
 
-
+---
   <section id="projects">
     <h4>CANVA</h4>
     <div class="project-grid">
