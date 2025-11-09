@@ -1,7 +1,6 @@
 {% include background.html %}
 <section id="groupwork-reflection">
 <h1>Group Work Reflections</h1> 
-<img src="assets/groupwork1.png" alt="Group Project"> 
 <p>Details about my group projects and learnings.</p>
 
 <article>
