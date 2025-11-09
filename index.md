@@ -26,9 +26,8 @@ On this site, you'll find examples of my work and reflections on what I learned 
 
 ---
 
-## 💼 Featured Projects
-- **Project 1:** [BnB Reservation System](#) — A booking management system.  
-- **Project 2:** [Portfolio Website](#) — Designed with Jekyll & GitHub Pages.
+## 💼 Featured Projects  
+- **Project 1:** [Portfolio Website](#) — Designed with Jekyll & GitHub Pages.
 
 
   <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
@@ -43,6 +42,7 @@ particlesJS("particles-js", {
   }
 });
 </script>
+
 
 
 
