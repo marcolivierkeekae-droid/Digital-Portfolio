@@ -15,7 +15,7 @@
 
 <article>
   <h2>Norming</h2>
-  <p>We agreed on shared expections being whatsapp and Teams calls on days we were not busy,encouraging open feedback.</p>
+  <p>We agreed on shared expectations being whatsapp and Teams calls on days we were not busy for our discussions,encouraging open feedback.</p>
 </article>
 
 <article>
