@@ -10,7 +10,7 @@
 
 <article>
   <h2>Storming</h2>
-  <p>There were challenges,where our first designated leader was briefly late to a scheduled meeting,it was unprecedented, but i knew they would not be able to play the role well.Since the discussion could not commence without their insight, we decided to appoint someone else to lead temporarily.This abrupt shift showed how adaptable how group could be under pressure. </p>
+  <p>There were challenges,where our first designated leader was briefly late to a scheduled meeting,it was unprecedented, but i knew they would not be able to play the role well.Since the discussion could not commence without their insight, we decided to appoint someone else to lead temporarily.This abrupt shift showed how adaptable my group could be under pressure. </p>
 </article>
 
 <article>
