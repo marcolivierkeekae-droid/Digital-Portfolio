@@ -2,7 +2,6 @@
 <section id="groupwork-reflection">
 <h1>Group Work Reflections</h1> 
 <p>Details about my group projects and learnings.</p>
-<link rel="stylesheet" href="/assets/style.css">
 
 <article>
   <h2>Forming</h2>
@@ -36,6 +35,8 @@
 </section>
 
 <a href="{{ site.baseurl }}/index.html">← Back to Home</a>
+
+<link rel="stylesheet" href="/assets/style.css">
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script>
