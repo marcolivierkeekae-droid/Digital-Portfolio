@@ -2,6 +2,7 @@
 <section id="groupwork-reflection">
 <h1>Group Work Reflections</h1> 
 <p>Details about my group projects and learnings.</p>
+<link rel="stylesheet" href="/assets/style.css">
 
 <article>
   <h2>Forming</h2>
