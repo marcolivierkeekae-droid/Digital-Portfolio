@@ -23,7 +23,7 @@
   Application letter for Industrial Attachment
   </h2>
   
-  <p><strong>Leatile Marc-Olivier Keekae</strong><br>
+  <p>Leatile Marc-Olivier Keekae<br>
   Gaborone<br>
   lato@gmail.com<br>
   +26771397908<br>
@@ -31,18 +31,18 @@
 
   <br>
 
-  <p><strong>To:</strong><br>
+  <p>To:<br>
   The Human Resource Manager<br>
   Subnet Solutions<br>
   P O BOX 116<br>
   Gaborone</p>
 
-  <p><strong>Subject:</strong>Application for Industrial Attachment</p>
+  <p>Subject:Application for Industrial Attachment</p>
 
   <p>Dear Sir/Madam,</p>
 
   <p>
-    This letter hereby serves as a formal application for an industrial attachment opportunity at <strong>Subnet Solutions</strong> as part of my studies in <strong>Computer Systems Engineering</strong>. I am eager to acquire practical experience,which i believe will be very useful to me towards my future endeavors, and also help deepen my understanding of how technology is applied in real-world business environments.
+    This letter hereby serves as a formal application for an industrial attachment opportunity at Subnet Solutions as part of my studies in Computer Systems Engineering. I am eager to acquire practical experience,which i believe will be very useful to me towards my future endeavors, and also help deepen my understanding of how technology is applied in real-world business environments.
   </p>
 
 <p>
@@ -58,7 +58,7 @@
 </p>
 
 <p>Yours faithfully<br><br>
-<strong>Leatile Marc-Olivier Keekae</strong></p>
+Leatile Marc-Olivier Keekae</p>
 <p>+26771397908</p>
 l.keekae
 <section>
