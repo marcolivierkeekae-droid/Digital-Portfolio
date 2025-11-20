@@ -1,8 +1,25 @@
 {% include background.html %}
 
-<h1>Application Letter</h1>
-<section id="application-letter" style="font-family: 'Segoe UI', Ariel, sans-serif; line-height: 1.6; color: #222; max-width: 800px; margin: 40px auto; background #1b1b32; padding: 40px; border-radius: 16px; box-shadow: 0 4px 10px rgba(0,0,0,0.08);">
-  <h2 style="text-align: center; font-size: 1.8em; color: #1a1a1a; margin-bottom: 20px;">
+<section id="application-letter" 
+         style="font-family: 'Segoe UI', Arial, sans-serif; 
+                line-height: 1.6; 
+                color: #fff; 
+                max-width: 800px; 
+                margin: 40px auto; 
+                background: #1b1b32; 
+                padding: 40px; 
+                border-radius: 16px; 
+                box-shadow: 0 8px 20px rgba(0,0,0,0.15); 
+                transition: transform 0.3s ease;">
+  <h2 style="text-align: center; 
+             font-size: 2em; 
+             color: #f0f0f0; 
+             margin-bottom: 20px;">
+    Application Letter
+  </h2>
+  <p style="font-size: 1em; 
+            color: #ddd; 
+            margin-bottom: 1.2em;">
   Application letter for Industrial Attachment
   </h2>
   
